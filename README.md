@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=7ADFA5FF&vCenter=true&repeat=true&width=435&lines=Welcome+to+MRCORE+GitHub+profile+." />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 <!-- <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
 <!-- </div> -->
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
 </p>
 
 <picture>
