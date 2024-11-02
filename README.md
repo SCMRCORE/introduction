@@ -11,7 +11,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=moltack" />
   </a>
   <a href="https://github.com/SCMRCORE">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=320&theme=moltack" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=250&theme=moltack" />
   </a>
 </p>
 
