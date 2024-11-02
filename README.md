@@ -8,12 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/SCMRCORE">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=moltack" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SCMRCORE&show_icons=true&theme=vue" />
   </a>
   <a href="https://github.com/SCMRCORE">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=250&theme=moltack" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SCMRCORE&layout=compact&langs_count=8&card_width=250&theme=vue" />
   </a>
 </p>
+
+<!-- <div id="img" align=center> -->
+<!-- <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
+<!-- </div> -->
 
 <p align="center"> 
       &emsp;&emsp;
@@ -28,9 +32,7 @@
       <a href=""><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white" ></a>&emsp;
       <a href=""><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" ></a>&emsp;
 </p>
-<!-- <div id="img" align=center> -->
-<!-- <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/📖-红迷-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🎨-绘画-%23f5e1c0?style=for-the-badge"/></a> <a href="https://https://github.com/chenJH123456" target="_blank"><a href="https://https://github.com/chenJH123456" target="_blank"><img  align=center src="https://img.shields.io/badge/🌄-大自然-%23f5e1c0?style=for-the-badge"/></a> -->
-<!-- </div> -->
+
 <p align="center">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SCMRCORE&theme=vue&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
 </p>
